@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GINPPA",
+    "section": "",
+    "text": "Welcome to GINPPA\n\npar(family=\"serif\")\nplot(iris, col=\"forestgreen\", pch=20, cex=.8)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "About",
+    "section": "",
+    "text": "NCHU Graduate Institute of National Policy and Public Affairs, the best education in Public Policy and Public Management"
+  }
+]
